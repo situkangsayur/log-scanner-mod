@@ -1,0 +1,21 @@
+#python compiled file
+*.pyc
+
+
+#temp editing files
+*.swap
+*.swp
+
+#env dir
+venv
+
+#info
+*.*-info
+
+#build
+build
+
+#distribution files
+dist
+*.egg
+
