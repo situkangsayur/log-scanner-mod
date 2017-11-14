@@ -1,21 +1,24 @@
-#python compiled file
+# python compiled file
 *.pyc
 
 
-#temp editing files
+# temp editing files
 *.swap
 *.swp
+*.swo
 
-#env dir
+# env dir
 venv
 
-#info
+# info
 *.*-info
 
-#build
+# build
 build
 
-#distribution files
+# distribution files
 dist
 *.egg
 
+# intellij idea project directory
+.idea

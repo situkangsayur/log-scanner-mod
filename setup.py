@@ -22,7 +22,7 @@ setup(
         'jsonmerge==1.2.1',
         'geopy==1.11.0',
         'scikit-learn==0.18.1',
-        'Flask-PyMongo==0.3.1',
+#        'Flask-PyMongo==0.3.1',
         'pymongo==2.8.1',
         'raven==5.32.0'
     ]
